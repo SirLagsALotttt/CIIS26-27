@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.CIIS2627" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
